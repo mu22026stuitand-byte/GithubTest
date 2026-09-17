@@ -2,10 +2,12 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
     std::cout << "Hello World!\n";
+    cout << "ぬーばーじぇん" << endl;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
